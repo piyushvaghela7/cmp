@@ -21,7 +21,7 @@ with st.sidebar.header('Upload your ZIP file'):
         "Excel-containing ZIP file", type=["zip"])
 
     st.sidebar.markdown("""
-[Example ZIP input file](https://github.com/dataprofessor/excel-file-merge-app/raw/main/nba_data.zip)
+[Example ZIP input file](https://github.com/piyushvaghela7/cmp/raw/master/data/nba_data.zip)
 """)
 
 # Excel file merge function
